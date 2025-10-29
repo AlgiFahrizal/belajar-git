@@ -1,0 +1,1 @@
+console.log('Ini bagian test 2');
