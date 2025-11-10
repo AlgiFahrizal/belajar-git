@@ -1,5 +1,6 @@
 console.log ('Ini bagian tes');
 const add = (a, b) => a + b;
+<<<<<<< HEAD
 console.log (add(10, 20));
 
 const subtract = (a, b) => a - b;
@@ -13,3 +14,6 @@ console.log (divide(40, 8));
 
 const modulus = (a, b) => a % b;
 console.log (modulus(29, 5));
+=======
+console.log (add(10, 20));
+>>>>>>> parent of a00e15f (menghapus beberapa file)
